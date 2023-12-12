@@ -3,5 +3,5 @@
 int main()
 {
 printf("this is new program to git hub");
-end 0;
+return 0;
 }
